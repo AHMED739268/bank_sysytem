@@ -5,7 +5,7 @@
 ![OOP](https://img.shields.io/badge/Code-OOP-green?style=flat-square)
 
 
-A modern and secure banking system built with **Python**, using **Object-Oriented Programming** and connected to a **PostgreSQL** database. This project simulates a basic bank where users can **register, log in, view their profile, check their balance**, and even **request a loan (قرض)** — which updates their account balance.
+A modern and secure banking system built with **Python**, using **Object-Oriented Programming** and connected to a **PostgreSQL** database. This project simulates a basic bank where users can **register, log in, view their profile, check their balance**, and even **request a loan ** — which updates their account balance.
 
 ---
 
@@ -15,7 +15,7 @@ A modern and secure banking system built with **Python**, using **Object-Oriente
 - 🔐 **Secure Login System**
 - 👤 **View User Profile**
 - 💰 **Check Account Balance**
-- 🏦 **Request a Loan (قرض)**
+- 🏦 **Request a Loan **
 - 🗃️ **PostgreSQL Integration**
 - 🧠 **Object-Oriented Programming Architecture**
 - 💾 **Persistent Data Storage**
